@@ -1,4 +1,4 @@
-# M2_Fare Prediction_Group 2
+# Fare Prediction
 
 ## Project Overview
 # **Uber/Lyft Fare Prediction**
