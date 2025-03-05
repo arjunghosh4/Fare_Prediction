@@ -1,4 +1,3 @@
-## Project Overview
 # **Uber/Lyft Fare Prediction**
 
 ### This project predicts ride fares for Uber and Lyft rides based on historical ride data. The objective is to provide accurate predictions for fare prices, enabling insights into the factors influencing ride costs.
