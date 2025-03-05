@@ -1,5 +1,3 @@
-# Fare Prediction
-
 ## Project Overview
 # **Uber/Lyft Fare Prediction**
 
